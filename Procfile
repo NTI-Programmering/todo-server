@@ -1,1 +1,1 @@
-web: gunicorn main:todo_server
+web: gunicorn main:app
