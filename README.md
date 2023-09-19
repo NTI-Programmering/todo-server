@@ -48,7 +48,7 @@ Feel free to open issues and pull requests to improve this project. Your contrib
 This project's code is freely available for anyone to use and modify.
 
 ## 📝 Credits
-## 📝 Credits
 
 This project was created by **KaahinAtNTI** during the "Webserver Programming 1" course in the academic year 2023/24 at **NTI Gymnasiet Örebro**
+
 
